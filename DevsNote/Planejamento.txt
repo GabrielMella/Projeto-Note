@@ -1,0 +1,25 @@
+O que o projeto precisa ?
+
+- Listar as anotações
+- Pegar informações de uma anotação
+- Inserir anotações
+- Atualizar anotações
+- Deletar anotações
+
+Qual a estrutura de dados ?
+
+- Local para armazenar as anotações
+-- ID
+-- TITLE
+-- BODY
+
+
+
+Quais os endpoints ?
+
+- GET /api/notes
+- GET /api/note/123
+- POST /api/note (title, body)
+- PUT /api/note/123 (title, body)
+- DELETE /api/note/123
+
