@@ -8,7 +8,7 @@
 </p>
 
 <br>
-<h3>Projeto API DevsNote</h3>
+<h3>Projeto API Note</h3>
 Api de bloco de Notas com integração de banco de dados MySql.			
 
 <h3>Técnologias utilizadas: </h3>
